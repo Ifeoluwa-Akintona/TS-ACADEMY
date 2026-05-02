@@ -1,20 +1,18 @@
-### EXCEL FUNCTIONS
----
+EXCEL FUNCTIONS
 
-# SUM - Adds together numbers in a range.
-# SUMIF	- Calculates the sum of values in a range based on a TRUE or FALSE condition.
-# SUMIFS	- Calculates the sum of a range based on one or more TRUE or FALSE condition.
-# AVERAGE	- Calculates the average (arithmetic mean).
-# AVERAGEIF	- Calculates the average of a range based on a TRUE or FALSE condition.
-# AVERAGEIFS	- Calculates the average of a range based on one or more TRUE/FALSE conditions.
-# COUNT	- Counts cells with numbers in a range.
-# COUNTA	- Counts all cells in a range that has values, both numbers and letters.
-# COUNTBLANK	- Counts blank cells in a range.
-# COUNTIF	- Counts cells as specified.
-# COUNTIFS	- Counts cells in a range based on one or more TRUE or FALSE condition.
+SUM - Adds together numbers in a range.
+SUMIF	- Calculates the sum of values in a range based on a TRUE or FALSE condition.
+SUMIFS	- Calculates the sum of a range based on one or more TRUE or FALSE condition.
+AVERAGE	- Calculates the average (arithmetic mean).
+AVERAGEIF	- Calculates the average of a range based on a TRUE or FALSE condition.
+AVERAGEIFS	- Calculates the average of a range based on one or more TRUE/FALSE conditions.
+COUNT	- Counts cells with numbers in a range.
+COUNTA	- Counts all cells in a range that has values, both numbers and letters.
+COUNTBLANK	- Counts blank cells in a range.
+COUNTIF	- Counts cells as specified.
+COUNTIFS	- Counts cells in a range based on one or more TRUE or FALSE condition.
 
-# FIRST ASSIGNMENT. 
----
+FIRST ASSIGNMENT. 
 
 - Calculate the total sales for only Sales Department. 
 - Average sales for only HR Department. 
@@ -22,4 +20,25 @@
 - Average Sales for Female employees in Lagos. 
 - Count the number of Male employees in Lagos. 
 - Find the maximum salary for employees in IT Department. 
+
+DATA CLEANING. 
+Duplicate Rows - Duplicate rows are rows that have been registered more than one time.
+Trim and Clean - removes the space character OR other specified characters from the start or end of a string.
+Text casing - Changes the casing of each text using functions such as; PROPER, LOWERCASE, UPPERCASE.
+Missing values - These are values called the 'Null values'. 
+Split Names- The use of Delimiters to separate text. 
+
+SECOND ASSIGNMENT. 
+- Remove Duplicate Rows.
+- Trim and Clean Text Columns.
+- Fix Texts Casing.
+- Replace Missing Values (NA / Null) with anything of your choice.
+- Change Data Types.
+- Split Full Name into First and Last Name.
+- Fix Quantity Column.
+- Remove Rows with Nulls in Key Columns.
+- Standardize Region Names.
+- Create a Recalculated “Total Sales” Column.
+- Remove or Fix Wrong Dates.
+- Load Cleaned Data.
 
