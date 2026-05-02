@@ -32,3 +32,7 @@
 - Average Sales for Female employees in Lagos. 
 - Count the number of Male employees in Lagos. 
 - Find the maximum salary for employees in IT Department. 
+
+---
+
+<img width="424" height="253" alt="1st assignment" src="https://github.com/user-attachments/assets/a0560091-12d6-41bf-8e9b-ad742f91ddf5" />
